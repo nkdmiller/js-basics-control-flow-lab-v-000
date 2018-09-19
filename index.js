@@ -15,14 +15,14 @@ function ternaryCheckCity(city){
 }
 function switchOnCharmFromTip(tip){
   let response;
-  switch (tip) {
-    case 'happy':
-        response = 'Thank you so much.';
-        break;
-    case 'sad':
-        response = "Thank you.";
-        break;
-    default:
-        response = "Bye.";
-}
+    switch (tip) {
+      case 'happy':
+          response = 'Thank you so much.';
+          break;
+      case 'sad':
+          response = "Thank you.";
+          break;
+      default:
+          response = "Bye.";
+  }
 }
