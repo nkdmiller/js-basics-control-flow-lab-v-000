@@ -9,5 +9,6 @@ function scuberGreetingForFeet(someValue) {
   return result
 }
 function ternaryCheckCity(city){
-  if (city = )
+  let result;
+  age >= 18 ? (isAdult = true) : (isAdult = false);
 }
