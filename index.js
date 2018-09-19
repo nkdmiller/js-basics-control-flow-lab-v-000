@@ -10,5 +10,5 @@ function scuberGreetingForFeet(someValue) {
 }
 function ternaryCheckCity(city){
   let result;
-  age >= 18 ? (isAdult = true) : (isAdult = false);
+  city === "NYC" ? (result = true) : (isAdult = false);
 }
